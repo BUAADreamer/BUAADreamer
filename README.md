@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BUAADreamer
 - 👀 I’m interested in Natural Language Processing.
-- 🌱 I’m currently researching Retrieval and LLM.
+- 🌱 I’m currently researching LLM and Retrieval.
 - 📫 How to reach me muller.dreamer@qq.com
 
 <!---
