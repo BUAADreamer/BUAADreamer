@@ -4,7 +4,7 @@
 - 📫 How to reach me muller.dreamer@qq.com
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BUAADreamer&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BUAADreamer&langs_count=3&hide=javascript,go,html,css,tex,Roff,C,Assembly)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BUAADreamer&langs_count=3&hide=javascript,go,html,css,tex,Roff,C,Assembly,Jupyter Notebook)
 
 <!---
 BUAADreamer/BUAADreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
