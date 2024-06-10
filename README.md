@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BUAADreamer
-- 👀 I’m interested in Natural Language Processing.
 - 🌱 I’m currently researching LLM and Retrieval.
+- ✨ I’m working on MLLMs of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 - 📫 How to reach me muller.dreamer@qq.com
   
 <!---
