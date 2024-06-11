@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @**BUAADreamer**
 - 🌱 I’m currently researching **LLM** and **Retrieval**.
-- ✨ I’m working on **Multimodal LLMs**📄🖼️🤖 of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
+- ✨ I’m working on **Multimodal LLMs** 📄🖼️🤖 of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 - 📫 How to reach me muller.dreamer@qq.com
   
 <!---
