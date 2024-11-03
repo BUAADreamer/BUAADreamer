@@ -2,7 +2,7 @@
 - 🌱 I’m currently researching **LLM** and **Retrieval**.
 - ✨ I’m working on **Multimodal LLMs** 📄🖼️ of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
 - 📫 How to reach me muller.dreamer@qq.com
-- 📕 You might be interested in my blog: [BrownSearch's zhihu blog](https://www.zhihu.com/people/brownsearch/posts)
+- 📕 You might be interested in my blog: [BrownSearch's Zhihu Blog](https://www.zhihu.com/people/brownsearch/posts)
   
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BUAADreamer&show_icons=true)
